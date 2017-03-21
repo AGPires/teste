@@ -1,0 +1,21 @@
+body{
+  background: black;
+  color: white;
+  font-family: Consolas;
+    }
+    
+.stilo1 {
+      color: cyan
+    }
+.stilo2 {  
+  color: red;
+}
+.stilo3{
+  color: yellow;
+}
+.stilo4{
+  color: magenta;
+}
+.stilo5{
+  color: LightGray;
+}
